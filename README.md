@@ -1,7 +1,6 @@
 # [JSL03] Project Submission: Which one is which? Declarative or Imperative?!
 
 Loom Recording Link:https://www.loom.com/share/b729785ac1e7440ba442bc212895b6d6?sid=5b686860-150e-47c8-aefe-115c31be8219
-<div style="position: relative; padding-bottom: 52.7086383601757%; height: 0;"><iframe src="https://www.loom.com/embed/b729785ac1e7440ba442bc212895b6d6?sid=72b9b52f-6a5e-4aca-9333-97a667528282" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 # Project Overview
 
