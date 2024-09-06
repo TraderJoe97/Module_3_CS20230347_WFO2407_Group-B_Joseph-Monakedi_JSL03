@@ -1,3 +1,4 @@
+// This is an declarative aproach to cooking a steak
 function cookSteak(steakWeight, desiredDoneness) {
     const grillTemperatureCelsius = 204; 
     const seasoning = 'Salt and Pepper';

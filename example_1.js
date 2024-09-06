@@ -1,3 +1,4 @@
+// This is an imperative aproach to cooking a steak
 function cookSteak(steakWeight, desiredDoneness) {
     let grillTemperature = 0;
     let steakTemperature = 0;
